@@ -2,7 +2,7 @@
 
 ## Introducción
 
-¡Bienvenido al curso **DevSecOps Practitioner**. Este curso avanzado está diseñado para integrar prácticas de seguridad dentro del pipeline DevOps. Los participantes obtendrán conocimientos prácticos sobre la implementación de principios de DevSecOps, la gestión de métricas, la planificación de arquitecturas y la creación de infraestructuras seguras.
+¡Bienvenido al curso **DevSecOps Practitioner**! Este curso avanzado está diseñado para integrar prácticas de seguridad dentro del pipeline DevOps. Los participantes obtendrán conocimientos prácticos sobre la implementación de principios de DevSecOps, la gestión de métricas, la planificación de arquitecturas y la creación de infraestructuras seguras.
 
 ## Descripción del Curso
 
