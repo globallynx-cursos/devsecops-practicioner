@@ -92,15 +92,16 @@ El Módulo 3 se centra en la importancia de una planificación y arquitectura ef
      - Enfocado en soluciones inmediatas y técnicas.
      - Desarrollo y despliegue de soluciones.
 
-## Tabla conceptos herramientas📊
+## Tabla conceptos herramientas 📊
 
 | Concepto           | Descripción | Herramientas/Recursos |
 |---------------------|-------------|------------------------|
 | **Flujo de Trabajo** 🛠️ | Pasos desde planificación hasta despliegue. | Jira, Trello, Jenkins, Docker |
-| **Planificación** 📝 | Definir requerimientos y objetivos. | Lucidchart, Draw.io |
-| **Desarrollo** 💻 | Construcción y codificación de la aplicación. | GitLab CI, GitHub Actions |
-| **Pruebas** ✔️ | Validación del código y sus funcionalidades. | JUnit, Selenium |
-| **Despliegue** 🚀 | Implementación del producto en producción. | Kubernetes, Docker |
-| **Monitoreo** 📈 | Supervisión del rendimiento y métricas. | Prometheus, Grafana |
+| **Planificación** 📝 | Definir requerimientos y objetivos. | Lucidchart, Draw.io, Mermaid, Microsoft Visio, Gliffy, Creately |
+| **Desarrollo** 💻 | Construcción y codificación de la aplicación. | GitLab CI, GitHub Actions, Jenkins |
+| **Pruebas** ✔️ | Validación del código y sus funcionalidades. | JUnit, Selenium, Postman, SoapUI |
+| **Despliegue** 🚀 | Implementación del producto en producción. | Kubernetes, Docker, AWS Lambda, Azure Functions |
+| **Monitoreo** 📈 | Supervisión del rendimiento y métricas. | Prometheus, Grafana, New Relic, Datadog |
 | **Métricas Clave** 📊 | Tiempo de ciclo, frecuencia de despliegue, tasa de éxito de pruebas. | Herramientas de análisis (DORA Metrics) |
 
+---
