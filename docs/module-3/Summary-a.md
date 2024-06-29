@@ -49,7 +49,42 @@ El Módulo 3 se centra en la importancia de una planificación y arquitectura ef
    - **Maturidad de la Arquitectura**:
      - Niveles: **Caos**, **Definido**, **Repetible**, **Gestionado**, **Optimizado**.
 
-### 5. **Roles en Arquitectura y Desarrollo** 👩‍💻👨‍💻
+### 5. **Arquitectura basada en APIs** 🌐
+   - **Definición**: APIs permiten la comunicación entre diferentes servicios o componentes de software.
+   - **Ventajas**:
+     - Facilitan la integración y la interoperabilidad.
+     - Permiten la escalabilidad y la modularidad.
+   - **Desafíos**:
+     - Gestión de versiones y compatibilidad.
+     - Seguridad en la exposición de APIs.
+
+### 6. **Arquitectura Serverless** ☁️
+   - **Definición**: Modelo de ejecución en el que el proveedor de la nube gestiona la infraestructura y la asignación de recursos.
+   - **Ventajas**:
+     - Escalado automático.
+     - Pago por uso.
+   - **Desafíos**:
+     - Latencia en la inicialización.
+     - Limitaciones en el tiempo de ejecución y el entorno.
+
+### 7. **Arquitectura Event-Driven** ⚙️
+   - **Definición**: Sistemas que reaccionan a eventos, donde un evento es cualquier cambio de estado significativo.
+   - **Ventajas**:
+     - Alta escalabilidad y flexibilidad.
+     - Mejor manejo de datos en tiempo real.
+   - **Desafíos**:
+     - Complejidad en la gestión de eventos y dependencias.
+     - Dificultad en la depuración y el seguimiento de eventos.
+
+### 8. **Patrones de Migración** 🔄
+   - **Patrón de Estrangulamiento**:
+     - Migración gradual de un sistema monolítico a microservicios.
+     - Permite la coexistencia de ambos sistemas durante la transición.
+   - **Big Bang**:
+     - Migración completa en un solo paso.
+     - Riesgos altos debido a la gran cantidad de cambios simultáneos.
+
+### 9. **Roles en Arquitectura y Desarrollo** 👩‍💻👨‍💻
    - **Arquitecto de Software**:
      - Enfocado en la visión general, documentación y planificación a largo plazo.
      - Habilidades de liderazgo y analíticas.
@@ -57,7 +92,7 @@ El Módulo 3 se centra en la importancia de una planificación y arquitectura ef
      - Enfocado en soluciones inmediatas y técnicas.
      - Desarrollo y despliegue de soluciones.
 
-## Tabla de Apoyo para el Ejercicio 📊
+## Tabla conceptos herramientas📊
 
 | Concepto           | Descripción | Herramientas/Recursos |
 |---------------------|-------------|------------------------|
@@ -68,3 +103,4 @@ El Módulo 3 se centra en la importancia de una planificación y arquitectura ef
 | **Despliegue** 🚀 | Implementación del producto en producción. | Kubernetes, Docker |
 | **Monitoreo** 📈 | Supervisión del rendimiento y métricas. | Prometheus, Grafana |
 | **Métricas Clave** 📊 | Tiempo de ciclo, frecuencia de despliegue, tasa de éxito de pruebas. | Herramientas de análisis (DORA Metrics) |
+
